@@ -8,6 +8,10 @@ deployed using:https://firebase.google.com/
 
 api collaboration platform used for references:https://www.postman.com/
 
-# DEPLOYED WEBSITE:
+# Website Link
 https://netflix-clone-b4a2a.web.app/
+
+# Demo
+
+![demo](https://github.com/jayasri2000/netflix-clone/blob/master/Screenshot%20(17).png)
 
